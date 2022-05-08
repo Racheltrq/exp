@@ -8,8 +8,8 @@ chs= "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_{,}?!-@#$%^
 
 
 cookie = {
-    "CHALBROKER_USER_ID":"rt1726",
-    "PHPSESSID":"vd7323gpl3fipc1uavh2b8uu23"
+    "CHALBROKER_USER_ID":"netid",
+    "PHPSESSID":"phpsessid"
 }
 
 #payload = {
